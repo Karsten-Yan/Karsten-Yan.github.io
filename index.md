@@ -37,4 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-[FlOB](https://www.film-rezensionen.de/wp-content/uploads/2011/04/Nausica%C3%A4-Aus-dem-Tal-der-Winde-Frontpage.png)
+![FlOB](https://www.film-rezensionen.de/wp-content/uploads/2011/04/Nausica%C3%A4-Aus-dem-Tal-der-Winde-Frontpage.png)
